@@ -1,0 +1,19 @@
+{
+    "name": "extnddthght/project2",
+    "description": "My Project 2",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Gianluca Guarino",
+            "email": "gg346@njit.edu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"app\\": "src/"}
+    },
+    "require": {}
+}
