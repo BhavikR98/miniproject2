@@ -1,3 +1,3 @@
 # miniproject2
 
-Partner - Bhavik Rana 
+IS 218 miniProject2 Partner - Bhavik Rana - met up to work on final project for several days over the last few weeks and did the commits together.
