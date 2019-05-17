@@ -4,4 +4,5 @@ IS 218 miniProject2 Partner - Bhavik Rana - met up to work on final project for 
 
 Notes:
 We have the database successfully running but a blank screen when trying to run CSV data.
+CSV data is present in project but not running to database.
 
