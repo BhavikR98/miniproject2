@@ -10,9 +10,9 @@ class Record
 {
     private $data =array();
 
-    public function __construct(array $year,array $makes)
+    public function __construct(array $year,array $make)
     {
-        $records = ArrayFunctions::combineArray($year, $makes);
+        $records = ArrayFunctions::combineArray($year, $make);
         foreach ($records as $column => $make) {
             self::createCell($column, $make);
         }
